@@ -1,10 +1,10 @@
 # coding utf-8
-
+""" Modif faite pour tester git """
 import random
 
 random_attack = True
 random_damage = 0
-
+nom = blaba
 titan1_name = ''
 titan2_name = ''
 
