@@ -11,7 +11,7 @@ titan2_name = ''
 titan1_hp = 250
 titan2_hp = 250
 
-print ("\nPREPAREZ VOUS LE COMBAT VAT COMMENCER\n")
+
 
 
 
